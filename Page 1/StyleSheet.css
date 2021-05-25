@@ -1,0 +1,27 @@
+
+header {
+    position: relative;
+    background-color: Grey;
+    height: 50vh;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+body {
+    background-color: darkgray;
+}
+h1 {
+    color: black;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+p {
+    color: black;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.body{
+    margin: auto;
+    width: 80%;
+    padding-bottom: 120px;
+    padding-top: 120px;
+}
